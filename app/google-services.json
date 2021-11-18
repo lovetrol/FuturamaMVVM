@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "291655381873",
+    "project_id": "chopo-a36af",
+    "storage_bucket": "chopo-a36af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291655381873:android:59f660a7ccb8195278bcd0",
+        "android_client_info": {
+          "package_name": "com.proa.futuramamvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291655381873-0evpbd21uvge7lghaejhg78u2rdvhj5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv9U4_UBlP-LLvb4bc8iGqhipJMMeug_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291655381873-0evpbd21uvge7lghaejhg78u2rdvhj5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
