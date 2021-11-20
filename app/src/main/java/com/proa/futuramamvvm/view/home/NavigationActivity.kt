@@ -27,13 +27,5 @@ class NavigationActivity : AppCompatActivity() {
                 navController
             )
 
-        val appBarConfiguration =
-            AppBarConfiguration(
-                setOf(
-                    R.id.homeNavigationFragment,
-                    R.id.menuNavigationFragment
-                ))
-
-        setupActionBarWithNavController(navController,appBarConfiguration)
     }
 }
