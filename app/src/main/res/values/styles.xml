@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="actionBarTheme">@style/MyActionBarTheme</item>
+        <item name="colorPrimaryDark">@color/general_color_blue</item>
+        <item name="android:navigationBarColor">@color/general_color_blue</item>
+    </style>
+    <style name="MyActionBarTheme" parent="ThemeOverlay.AppCompat.ActionBar">
+        <item name="colorControlNormal">@color/general_color_blue</item>
+    </style>
+
+    <style name="WhiteNavigationView" parent="Base.Theme.AppCompat">
+        <item name="android:listDivider">@color/white</item>
+    </style>
+
+    <style name="TextInputLayoutAppearanceChopo" parent="Widget.Design.TextInputLayout">
+        <item name="colorControlNormal">@color/general_color_blue</item>
+        <item name="colorControlActivated">@color/general_color_blue</item>
+        <item name="colorControlHighlight">@color/general_color_blue</item>
+    </style>
+
+</resources>

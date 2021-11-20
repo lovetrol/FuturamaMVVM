@@ -1,12 +1,10 @@
-package com.proa.futuramamvvm
+package com.proa.futuramamvvm.view.home
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
 import androidx.activity.viewModels
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.proa.futuramamvvm.databinding.ActivityMainBinding
-import com.proa.futuramamvvm.model.FuturamaCharactersItem
 import com.proa.futuramamvvm.view.adapters.CharactersAdapter
 import com.proa.futuramamvvm.viewmodel.CharacterViewModel
 import dagger.hilt.android.AndroidEntryPoint
